@@ -9,6 +9,7 @@ Check it out live on: https://jmrchelani.github.io/
 ## Idea
 
 This project is inspired by the portfolio design of [Abu Anwar](https://github.com/abuanwar072) ([The Flutter Way](https://youtu.be/G_ZIJseX6AU))
+
 Link to his project: https://github.com/abuanwar072/Responsive-and-Animated-Portfolio-Flutter
 
 Some of the code has been taken from that repository, some third party packages have also been used:
